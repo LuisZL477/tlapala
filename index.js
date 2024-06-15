@@ -1,4 +1,5 @@
     var x=5;
-    console.log(x);
+    const suma=x+5;
+    console.log(suma);
 
 //MUY BONITO CODIGO
